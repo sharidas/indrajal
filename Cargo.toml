@@ -1,0 +1,9 @@
+[package]
+name = "indrajal"
+version = "0.1.0"
+authors = ["Sujith H <sharidasan@owncloud.com>"]
+
+[dependencies]
+serde = "1.0.55"
+serde_derive = "1.0.55"
+docopt = "1.0.0"
